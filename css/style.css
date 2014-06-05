@@ -138,7 +138,11 @@ h2 {
 }
        
 .caption {
+<<<<<<< HEAD
    font-size: 15px;
+=======
+   font-size: 17px;
+>>>>>>> 0853d6c4a178d4fef37a8458e12be4cb13fc7566
    position: absolute;
    bottom: -30px;
    left: 0;

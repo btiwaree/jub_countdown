@@ -138,13 +138,13 @@ h2 {
 }
        
 .caption {
-   font-size: 12px;
+   font-size: 17px;
    position: absolute;
    bottom: -30px;
    left: 0;
    text-align: center;
    width: 100%;
-   color: #777;
+   color: white;
 }
     
 footer {
